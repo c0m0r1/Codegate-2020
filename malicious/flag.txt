@@ -1,0 +1,1 @@
+CODEGATE2020{8_bits_per_byte_1_byte_per_sector}
