@@ -4,7 +4,7 @@
 
 Super Fast SignVerifier with JNI & CDS  
 leak the signature verify key  
-flag format is `CODEGATE2020{[leaked signature verify key]]}`  
+flag format is `CODEGATE2020{[leaked signature verify key]}`  
 
 # SignVerifier - stage 2
 
