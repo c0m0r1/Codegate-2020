@@ -1,0 +1,11 @@
+# Compile option
+# Compile directory will affect the challenge!
+# ./compile.sh create /home/signverifier directroy with sudo
+run "./compile.sh" to compile
+run "./copy_bin.sh" to get bin archive
+
+# Build Docker
+docker build -t signverifier .
+
+# Run Docker
+docker run --name signverifier -d -p12354:12354 signverifier

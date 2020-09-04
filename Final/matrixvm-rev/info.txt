@@ -1,0 +1,9 @@
+# complie
+# to build matrixvm binary
+cd prob_src
+Make
+# to make prob.mv
+./gen_prob.py
+
+# files to provide
+`./binary_flag/*`
